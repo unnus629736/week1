@@ -20,7 +20,7 @@ public class day3 {
       
     
     //move over and draw another square
-       p.setColor(Color.yellow);
+       p.setColor(Color.violet);
        p.up();
        p.move(200);
        p.down();
